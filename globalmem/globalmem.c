@@ -1,5 +1,5 @@
 /*
-*a simple char device driver: globalmem without mutex
+*a simple char device driver: globalmem mutex
 */
 #include<linux/module.h>
 #include<linux/fs.h>
