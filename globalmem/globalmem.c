@@ -1,5 +1,6 @@
 /*
 *a simple char device driver: globalmem mutex
+*111111
 */
 #include<linux/module.h>
 #include<linux/fs.h>
